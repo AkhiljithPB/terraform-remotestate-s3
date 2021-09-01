@@ -88,6 +88,6 @@ You can see the file will be created under your s3bucket.
 Thank you.
 
 
-## Referrence.
+## Reference.
 - https://www.terraform.io/docs/language/settings/backends/configuration.html
 - https://learn.hashicorp.com/tutorials/terraform/install-cli
