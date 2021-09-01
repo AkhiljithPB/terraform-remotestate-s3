@@ -89,5 +89,5 @@ Thank you.
 
 
 ## Referrence.
-https://www.terraform.io/docs/language/settings/backends/configuration.html
-https://learn.hashicorp.com/tutorials/terraform/install-cli
+- https://www.terraform.io/docs/language/settings/backends/configuration.html
+- https://learn.hashicorp.com/tutorials/terraform/install-cli
