@@ -49,7 +49,7 @@ depends_on              = [aws_s3_bucket.remote_bucket]
 }
 ```
 # What is DynamoDB?
- - ![alt text](https://www.youtube.com/watch?v=sI-zciHAh-4?raw=true)
+[![Alt text](http://i3.ytimg.com/vi/sI-zciHAh-4/hqdefault.jpg)](https://youtu.be/sI-zciHAh-4)
 
 After creating both the resources, S3 bucket and DynamoDB table, we have to modify our terraform s3 backend to add bucket_name and table_name.
 
