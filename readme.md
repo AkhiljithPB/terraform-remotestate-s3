@@ -69,7 +69,7 @@ terraform {
 ```
 Note : _Before running the s3 backend script , we must create the two resources (i.e. s3 bucket and DynamoDB table)_
 
-###Lets now initialize the script to put it all together.
+### Lets now initialize the script to put it all together.
 ```sh
 [root@ip-172-31-8-216 remote-tf]# terraform init
 
